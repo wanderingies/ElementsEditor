@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Document Version="2">
+    <Protection InputFileName="ElementsEditor.exe" Options="332544" VMCodeSectionName=".???" VMComplexity="20">
+        <Messages>
+            <Message Id="0">发现您的系统中正在运行一个调试器。&#x0A;请将其从内存中卸载并重新启动您的程序。</Message>
+            <Message Id="1">抱歉，此应用程序无法在虚拟机下运行。</Message>
+            <Message Id="2">文件已损坏！此程序已被篡改，可能&#x0A;感染了病毒或被破解。此文件将不再起作用。</Message>
+            <Message Id="3">此代码需要有效的序列号才能运行。&#x0A;程序将被终止。</Message>
+            <Message Id="4">该应用程序无法在该计算机上执行。</Message>
+        </Messages>
+        <Folders />
+        <Procedures />
+        <Objects />
+    </Protection>
+    <DLLBox>
+        <Folders />
+    </DLLBox>
+    <Script />
+    <LicenseManager />
+</Document>

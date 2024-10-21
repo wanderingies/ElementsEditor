@@ -1,0 +1,11 @@
+D:\swords\tools\ElementsEditor\ElementsEditor\obj\Debug\ElementsEditor.csproj.AssemblyReference.cache
+D:\swords\tools\ElementsEditor\ElementsEditor\obj\Debug\ElementsEditor.Forms.MainForm.resources
+D:\swords\tools\ElementsEditor\ElementsEditor\obj\Debug\ElementsEditor.Properties.Resources.resources
+D:\swords\tools\ElementsEditor\ElementsEditor\obj\Debug\ElementsEditor.csproj.GenerateResource.cache
+D:\swords\tools\ElementsEditor\ElementsEditor\obj\Debug\ElementsEditor.csproj.CoreCompileInputs.cache
+D:\swords\tools\ElementsEditor\ElementsEditor\bin\Debug\ElementsEditor.exe.config
+D:\swords\tools\ElementsEditor\ElementsEditor\bin\Debug\ElementsEditor.exe
+D:\swords\tools\ElementsEditor\ElementsEditor\bin\Debug\ElementsEditor.pdb
+D:\swords\tools\ElementsEditor\ElementsEditor\obj\Debug\ElementsEditor.exe
+D:\swords\tools\ElementsEditor\ElementsEditor\obj\Debug\ElementsEditor.pdb
+D:\swords\tools\ElementsEditor\ElementsEditor\obj\Debug\ElementsEditor.Forms.EditorForm.resources
